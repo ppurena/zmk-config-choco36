@@ -1,0 +1,5 @@
+config SHIELD_CHOC36_LEFT
+    def_bool $(shields_list_contains, Choc36_left)
+
+config SHIELD_CHOC36_RIGHT
+    def_bool $(shields_list_contains, Choc36_right)
