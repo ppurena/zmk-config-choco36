@@ -22,4 +22,5 @@ include:
     shield: Choc36_left
   - board: nice_nano_v2
     shield: Choc36_right
- 
+  - board: nice_nano_v2
+    shield: settings_reset
