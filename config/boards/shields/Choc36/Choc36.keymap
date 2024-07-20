@@ -47,9 +47,9 @@
 // |     |     |     |     |     |   |  _  |  +  |  [  |  ]  |  \  |
 //             | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
-   &kp EXCL  &kp AT    &kp HASH  &kp DLLR  &kp PRCNT   &kp CARET &kp AMPS  &kp ASTRK &kp LPAR &kp RPAR
-   &trans    &trans    &trans    &trans    &trans      &kp MINUS &kp EQUAL &kp LBKT  &kp RBKT &kp PIPE
-   &trans    &trans    &trans    &trans    &trans      &trans    &trans    &trans    &trans   &kp BSLH
+   &kp EXCL  &kp AT    &kp HASH  &kp DLLR  &kp PRCNT   &kp PIPE &kp LBRC  &kp RBRC &kp QMARK &kp RPAR
+   &trans    &trans    &trans    &trans    &trans      &kp AT   &kp LPAR  &kp RPAR &kp DLLR  &kp PIPE
+   &trans    &trans    &trans    &trans    &trans      &kp TILDE &kp LBKT &kp RBKT &kp EXCL  &kp BSLH
                        &kp LGUI  &trans    &kp SPACE   &kp RET   &trans    &kp RALT
                         >;
                 };
